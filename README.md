@@ -1,2 +1,2 @@
-# dio-jiraconfluence-challenge
-Repository created for the Jira/Confluence DIO's Project Challenge (GFT Bootcamp)
+# Jira and Confluence Challenge
+## Repository created for the Jira/Confluence DIO's Project Challenge (GFT Bootcamp)
