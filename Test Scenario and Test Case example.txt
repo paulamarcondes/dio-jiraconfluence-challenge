@@ -1,0 +1,8 @@
+https://www.guru99.com/test-case.html
+
+
+For a Test Scenario: Check Login Functionality there many possible test cases are:
+
+Test Case 1: Check results on entering valid User Id & Password
+Test Case 2: Check results on entering Invalid User ID & Password
+Test Case 3: Check response when a User ID is Empty & Login Button is pressed, and many more
